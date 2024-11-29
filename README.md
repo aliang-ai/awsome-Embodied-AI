@@ -12,6 +12,7 @@ A curated list of resources dedicated to Embodied AI
   - Python
 - Datasets
 - Papers
+- Code
 
 ### Research Summaries and Trends
 
@@ -44,3 +45,8 @@ A curated list of resources dedicated to Embodied AI
 
 
 ### Papers
+
+
+
+### Code
+- https://github.com/real-stanford/diffusion_policy
