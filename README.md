@@ -45,11 +45,16 @@ A curated list of resources dedicated to Embodied AI
 
 
 ### Papers
-| title | github |
-|----|--------|
-|PaLM-E: An Embodied Multimodal Language Model|        |
-|VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models||
-|March in Chat: Interactive Prompting for Remote Embodied Referring Expression||
+| title                                                                                        | github |
+|----------------------------------------------------------------------------------------------|--------|
+| PaLM-E: An Embodied Multimodal Language Model                                                |        |
+| VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models             |        |
+| March in Chat: Interactive Prompting for Remote Embodied Referring Expression                |        |
+| ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation |        |
+
+
+
+
 
 
 
@@ -58,4 +63,3 @@ A curated list of resources dedicated to Embodied AI
 
 ### Code
 - https://github.com/real-stanford/diffusion_policy
-- 
